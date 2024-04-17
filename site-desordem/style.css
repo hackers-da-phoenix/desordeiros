@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+h1 {
+background-color: red;
+color: white;
+font-size: 40px;
+font-style: oblique;
+margin-right: 950px;
+
+
+}
+h2 {
+    color: green;
+
+}
+body {
+    background-color: black;
+    color:antiquewhite;
+    
+    
+}
+body {
+    margin-left: 20px;
+}
