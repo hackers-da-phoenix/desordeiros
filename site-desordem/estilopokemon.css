@@ -5,16 +5,55 @@ h1{
 }
 body{
     margin-left: 70px;
+    margin-right: 70px;
 }
-div{
-    margin-left: 800px;
+.container{
+    
     font-size: 20px;
+    display:flex;
     
 
 
+}
+.content{
+    flex: 1;
+
+}
+.azulao{
+    flex: 1;
+    background-color: #30a7d7;
+    border-radius: 10px;
+    margin-right: 200px;
+    
 }
 span{
     color: #616161;
     font-size: 28px;
 }
+.branco{
+    color: white;
+    font-size: 16px;
+    
+}
+li{
+    color:black;
+    font-size: 18px;
+    background-color: #30a7d7;
 
+}
+ul{
+    list-style: none;
+}
+.transp{
+    color:#30a7d7;
+    
+}
+.azulin{
+    display: flex;
+}
+.azulin{
+    flex: 1;
+}
+.baiano{
+    display: flex;
+}
