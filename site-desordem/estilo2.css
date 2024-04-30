@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+    color: #777;
+    margin: 0px;
+    background-color: black;
+    border: 10px solid red;
+    
+}
+body { 
+    background-color: #777;
+    
+    
+}
+.tudo{
+    display: flex;
+
+}
+.centro{
+    flex: 3;
+    text-align: center;
+    display: flex;
+    
+    
+}
+.canto{
+    flex: 1;
+    background-color: red;
+    padding-bottom: 800px;
+    font-size: 30px;
+
+}
+ul{
+    list-style-type: none;
+    
+}
+.peit{
+    margin-right: 20px;
+    flex: 1;
+}
+.cost{
+    margin-left: 20px;
+    flex: 1;
+}
+.brac{
+    margin-left: 20px;
+    margin-right: 20px;
+}
